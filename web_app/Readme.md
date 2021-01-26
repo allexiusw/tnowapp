@@ -18,6 +18,6 @@ npm install
 `code .`
 
 ## Access to test
-Go to http://localhost:4
+Go to http://localhost:3000
 
 And that's all.
